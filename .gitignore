@@ -1,6 +1,3 @@
-myenv/
-yfinance/
-.vagrant/
 .terraform/
 .terraform.lock.hcl
 *.pem
