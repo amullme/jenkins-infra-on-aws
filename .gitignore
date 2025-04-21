@@ -2,4 +2,4 @@
 .terraform.lock.hcl
 *.pem
 custom*
-*.tfvars
+terraform.tfvars
