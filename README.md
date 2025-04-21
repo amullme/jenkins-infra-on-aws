@@ -11,10 +11,10 @@
 - Clone this repo locally
 - Run the following commands from the root of the repo
 ```
-cp ./templates/template.tfvars custom.tfvars
+cp ./templates/template.tfvars terraform.tfvars
 cp ./templates/template.tf custom.tf
 ```
-- Using the comments within each file, customize the information in the newly created files `custom.tvars` and `custom.tf`. FYI, Github will ignore these files.
+- Using the comments within each file, customize the information in the newly created files `terraform.tvars` and `custom.tf`. FYI, Github will ignore these files.
 - Log in to AWS cli
 - Build the infra with the commands below
 ```
